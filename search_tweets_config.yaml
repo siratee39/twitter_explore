@@ -1,0 +1,10 @@
+full_archive_sandbox:
+  account_type: premium
+  #endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/dev.json
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/exploreCovid19.json
+  # if you have a bearer token, you can use it below. otherwise, swap the comment marks and use 
+  # your app's consumer key/secret - the library will generate and use a bearer token for you. 
+  bearer_token: AAAAAAAAAAAAAAAAAAAAALqiOwEAAAAAVjypiGR%2BQ1ACJvFRsUH8CUsbZxc%3DokP4f4wPKQ7l7uCNNoohNigxnlPZIRsGXiI1OmPUDngJ199tJc
+  consumer_key: ntKwV4Kjbcdg0f7FIMsccdEmZ
+  consumer_secret: xy7bXBrpLL9ImiOBwqZdrTeO5B9FbeZOhQHqAqd6goVDcDEk7X
+
